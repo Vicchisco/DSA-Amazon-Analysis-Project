@@ -1,5 +1,5 @@
 # DSA-Amazon-Analysis-Project
-##The raw Excel file was carefully cleaned to ensure accurate analysis and reliable insights. Below are the steps taken:
+## Step1: The raw Excel file was carefully cleaned to ensure accurate analysis and reliable insights. Below are the steps taken:
 Created calculated columns:
 
 discount_percentage = (actual_price - discounted_price) / actual_price * 100
@@ -7,8 +7,8 @@ discount_percentage = (actual_price - discounted_price) / actual_price * 100
 potential_revenue = actual_price * rating_count
 
 price_bucket (e.g., <₹200, ₹200–₹500, >₹500)
- ##
-Step 2: Pivot Table Analysis — Mapping to Analysis Questions
+ 
+## Step 2: Pivot Table Analysis — Mapping to Analysis Questions
 
 Each of the following business questions was addressed using Pivot Tables, Calculated Fields, and Charts in Excel.
 
