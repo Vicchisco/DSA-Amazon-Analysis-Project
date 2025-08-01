@@ -81,5 +81,5 @@ Each of the following business questions was addressed using Pivot Tables, Calcu
 ## Visualisation
    visuals: Bar-Charts, Pie-Charts, Line Charts, simple plane shapes with figures
    
-[Image alt](https://github.com/Vicchisco/DSA-Amazon-Analysis-Project/blob/main/Screenshot%202025-08-01%20011408.png?raw=true)
+![Image alt](https://github.com/Vicchisco/DSA-Amazon-Analysis-Project/blob/main/Screenshot%202025-08-01%20011408.png?raw=true)
    
