@@ -77,3 +77,8 @@ Each of the following business questions was addressed using Pivot Tables, Calcu
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
 > Created a score: rating × review_count to rank and list top 5 products.
+
+## Visualisation
+   visuals: Bar-Charts, Pie-Charts, Line Charts, simple plane shapes with figures
+[image alt]()
+   
