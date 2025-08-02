@@ -8,7 +8,7 @@ potential_revenue = actual_price * rating_count
 
 price_bucket (e.g., <₹200, ₹200–₹500, >₹500)
  
-## Step 2: Pivot Table Analysis — Mapping to Analysis Questions
+## Step 2: Pivot Table Analysis 
 
 Each of the following business questions was addressed using Pivot Tables, Calculated Fields, and Charts in Excel.
 
@@ -82,4 +82,26 @@ Each of the following business questions was addressed using Pivot Tables, Calcu
    visuals: Bar-Charts, Pie-Charts, Line Charts, simple plane shapes with figures
    
 ![Image alt](https://github.com/Vicchisco/DSA-Amazon-Analysis-Project/blob/main/Screenshot%202025-08-01%20011408.png?raw=true)
+
+## Findings
+•	From analysis the average discount percentage is 46.69% with the home improvement category having the highest percentage discount.
+	
+•	They are 9 categories in total. for the car and motorbike category there is just 1 product listed. For Computer and accessories  (453) product , for Electronics 526,  for health and personal care 1 product, Home and Kitchen (448), Home improvement (2) , Musical instruments  (2),  Office products (31) and toy and games Category  having just 1 product.
+
+•	The total number of reviews is 26,766,377 with electronics category having the highest review as 15, 778,848 followed by computer and accessories (7,728,689), Home and kitchen (2,991,069), office products (149,675), Musical instruments (88,882), toys and games (15,867), home improvement (8,566), health and personal care (3663), and car and motorbike category having the least reviews as (1,118).
+
+•	751 products have a discount of 50% or more.
+
+•	The product with the highest average rating are, syncwire ltg, Amazon Basics Wireless, Redtech Usb-C with an Average rating of 5 each. Meanwhile the product with the highest number of reviews is Boat Bassheads 100 having a review total of 1, 091,137.
+
+•	The total potential revenue is (121,197,753,243.63). With Electronics category having the highest potential revenue of (102,303,489,886) then Home and kitchen (14,192,788,365.70), Computer and accessories (4,679,436,446.93), Car and motorbikes (9,356,000), Office products (8,452,087), Musical instruments (1,926,132), Health and personal care (1,708,100), Home improvement (573,726) and toy and games having a potential revenue of (22,500)
+
+•	The number of unique products <200 is 199, Unique product between 200-500 is 377 and that >500 is 889
+
+•	1448 products have reviews fewer than 1000
+
+•	The Computer and accessories category have the product with the highest Discounts with a maximum discount percentage of 94%
+
+•	The top 5 products in terms of rating is Boat bassheads 100, redmi 9A sport, Amazon basic highspeed, Amazon Basic flexible premium, Jbl C100si wired.
+
    
