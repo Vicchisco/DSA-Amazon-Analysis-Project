@@ -83,6 +83,8 @@ Each of the following business questions was addressed using Pivot Tables, Calcu
    
 ![Image alt](https://github.com/Vicchisco/DSA-Amazon-Analysis-Project/blob/main/Screenshot%202025-08-01%20011408.png?raw=true)
 
+![image alt](https://github.com/Vicchisco/DSA-Amazon-Analysis-Project/blob/main/actual%20price%20versus%20dicounted%20price.png?raw=true)
+
 ## Findings
 •	From analysis the average discount percentage is 46.69% with the home improvement category having the highest percentage discount.
 	
